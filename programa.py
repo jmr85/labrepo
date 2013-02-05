@@ -6,4 +6,4 @@ def suma(*args):
 	
 
 
-print suma(100,450)
+print "El resultado de la suma es -> ", suma(100,450)
